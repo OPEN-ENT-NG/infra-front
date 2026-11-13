@@ -71,3 +71,6 @@ During development, if you're using docker to run your springboard please open p
 ```
 - "6502:6502"
 ```
+
+
+Ce dépôt est un miroir officiel du dépôt Edifice : https://github.com/edificeio/infra-front
